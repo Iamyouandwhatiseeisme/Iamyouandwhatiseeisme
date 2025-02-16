@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamyouandwhatiseeisme&show_icons=true&locale=en" alt="iamyouandwhatiseeisme" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamyouandwhatiseeisme&" alt="iamyouandwhatiseeisme" /></p>
+<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=iamyouandwhatiseeisme&](https://raw.githubusercontent.com/iamyouandwhatiseeisme/main/streak-stats.png)" alt="iamyouandwhatiseeisme" /></p>
