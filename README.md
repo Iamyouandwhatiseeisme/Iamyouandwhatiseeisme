@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Sandro</h1>
 <h3 align="center">Enthusiastic frontend developer from Georgia</h3>
 
@@ -9,7 +8,7 @@
 - 🔭 I’m currently working on [CoreFitness](https://corefitness.vercel.app/)
 
 - 🌱 I’m currently learning **React,NextJs,TypeScript**
- 
+
 - 👨‍💻 All of my projects are available at [https://github.com/Iamyouandwhatiseeisme/](https://github.com/Iamyouandwhatiseeisme/)
 
 - 📫 How to reach me **saabashidze@gmail.com**
@@ -28,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamyouandwhatiseeisme&show_icons=true&locale=en" alt="iamyouandwhatiseeisme" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=iamyouandwhatiseeisme)](https://git.io/streak-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamyouandwhatiseeisme&" alt="iamyouandwhatiseeisme" /></p>
