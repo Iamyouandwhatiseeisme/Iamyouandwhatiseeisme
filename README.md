@@ -25,7 +25,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamyouandwhatiseeisme&show_icons=true&locale=en&layout=compact" alt="iamyouandwhatiseeisme" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamyouandwhatiseeisme&show_icons=true&locale=en" alt="iamyouandwhatiseeisme" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamyouandwhatiseeisme&theme=dark&hide_border=true&show_icons=true&locale=en" alt="iamyouandwhatiseeisme" /></p>
 
 <div>
     <a href="https://git.io/streak-stats">
