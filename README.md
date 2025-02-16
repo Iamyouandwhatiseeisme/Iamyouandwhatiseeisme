@@ -27,6 +27,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamyouandwhatiseeisme&show_icons=true&locale=en" alt="iamyouandwhatiseeisme" /></p>
 
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img height=160 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=iamyouandwhatiseeisme&theme=dark&hide_border=false" alt="GitHub Streak" />
-</a>
+<div>
+    <a href="https://git.io/streak-stats">
+      <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=iamyouandwhatiseeisme&theme=tokyonight-duo&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" style="margin-top: 20px;"/>
+    </a>
+  </div>
