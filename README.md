@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandro</h1>
-<h3 align="center">Enthusiastic frontend developer from Georgia</h3>
+<h3 align="center">Enthusiastic Flutter & FrontEnd developer from Georgia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamyouandwhatiseeisme&label=Profile%20views&color=0e75b6&style=flat" alt="iamyouandwhatiseeisme" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [CoreFitness](https://corefitness.vercel.app/)
 
-- 🌱 I’m currently learning **React,NextJs,TypeScript**
+- 🌱 I’m currently learning **Flutter, Dart, React,NextJs,TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Iamyouandwhatiseeisme/](https://github.com/Iamyouandwhatiseeisme/)
 
