@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamyouandwhatiseeisme" alt="iamyouandwhatiseeisme" /></a> </p>
 
-- 🔭 I’m currently working on [CoreFitnessAp](https://github.com/Iamyouandwhatiseeisme/CoreFitnessApp) & [CoreFitness](https://corefitness.vercel.app/)
+- 🔭 I’m currently working on [CoreFitnessApp](https://github.com/Iamyouandwhatiseeisme/CoreFitnessApp) & [CoreFitness](https://corefitness.vercel.app/)
 
 - 🌱 I’m currently learning **Flutter, Dart, React,NextJs,TypeScript**
 
