@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamyouandwhatiseeisme" alt="iamyouandwhatiseeisme" /></a> </p>
 
-- 🔭 I’m currently working on [CoreFitnessApp](https://github.com/Iamyouandwhatiseeisme/CoreFitnessApp) & [CoreFitness](https://corefitness.vercel.app/)
-
-- 🌱 I’m currently learning **Flutter, Dart, React,NextJs,TypeScript**
+- 🔭 I’m currently working on TKT Mobile App
 
 - 👨‍💻 All of my projects are available at [https://github.com/Iamyouandwhatiseeisme/](https://github.com/Iamyouandwhatiseeisme/)
 
